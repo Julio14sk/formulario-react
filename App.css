@@ -1,16 +1,14 @@
-
 .App{
-  background: #41ecde;
+  background: #318BD6;
   height: 1000px;
   display: flex;
   justify-content: space-around;
 
 }
 
-.container{
+.supercontainer{
   width: 1200px;
   height: 500px;
-  /*background: pink;*/
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -37,12 +35,11 @@
   color: aliceblue;
 }
 
-
 .buttonverde{
   width: 80px;  
   height: 40px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Courier, monospace;
-  background-color: rgb(30, 255, 0);
+  background-color: rgb(0, 255, 13);
   
   
 }
@@ -60,12 +57,13 @@
   height: 50px;
   display: flex;
   justify-content: space-evenly;
- 
 }
 
 .tabla{
-  background-color: #41C3F0;
+  background-color: #098b55;
 }
 .tablaform{
-  background-color: aliceblue;
+  background-color: rgb(131, 255, 120);
 }
+
+

@@ -1,0 +1,71 @@
+
+.App{
+  background: #41ecde;
+  height: 1000px;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.container{
+  width: 1200px;
+  height: 500px;
+  /*background: pink;*/
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+
+}
+
+.container .nombrelabel{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.container .apellidoslabel{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.container .correolabel{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.colorh2{
+  color: aliceblue;
+}
+
+
+.buttonverde{
+  width: 80px;  
+  height: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Courier, monospace;
+  background-color: rgb(30, 255, 0);
+  
+  
+}
+
+
+.buttonrojo{
+  width: 80px;  
+  height: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Courier, monospace;
+  background-color: rgb(255, 0, 0);
+}
+
+.botones{
+  width: 350px;
+  height: 50px;
+  display: flex;
+  justify-content: space-evenly;
+ 
+}
+
+.tabla{
+  background-color: #41C3F0;
+}
+.tablaform{
+  background-color: aliceblue;
+}
